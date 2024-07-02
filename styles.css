@@ -14,9 +14,6 @@ body {
   line-height: 1.5;
 }
 
-img {
-  display: block;
-}
 
 /* Project styling */
 
@@ -35,15 +32,11 @@ main {
   justify-content: center;
 }
 
-.freecodecamp-logo {
-  height: 30px;
-  margin: 25px 0;
-}
-
 h1 {
   color: #f5f6f7;
   font-size: 1.7em;
   text-align: center;
+  margin: 25px 0;
 }
 
 .container {
